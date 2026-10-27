@@ -1,6 +1,6 @@
 # Rondas de Seguridad
 
-Aplicación web: **https://herramientas-calidad.github.io/rondas-seguridad/** (versión 2026.03).
+Aplicación web: **https://herramientas-calidad.github.io/rondas-seguridad/** (versión 2026.04).
 
 Aplicación web (PWA) estática, sin dependencias y utilizable sin conexión, para que un profesional monte las **rondas de seguridad de su unidad** y las siga:
 

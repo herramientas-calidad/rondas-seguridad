@@ -15,7 +15,7 @@
   // ---------- Versión y novedades ----------
   // Al publicar cambios: añadir una entrada AL PRINCIPIO de NOVEDADES, poner su versión en los ?v= de index.html, en
   // APP_VERSION y subir CACHE_NAME en sw.js. Formato de versión: AAAA.NN.
-  const APP_VERSION = "2026.03";
+  const APP_VERSION = "2026.04";
   const NOVEDADES = [
     { version: "2026.01", fecha: "Octubre 2026", titulo: "Primera versión", cambios: [
       "Programa de rondas de tu unidad en cinco pasos: programa, cuestionario, rondas, acciones y seguimiento, con «Tu siguiente paso» en la portada.",

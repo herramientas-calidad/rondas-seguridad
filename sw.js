@@ -4,7 +4,7 @@
 //  Al cambiar cualquier archivo, incrementa CACHE_NAME.
 // ============================================================
 
-const CACHE_NAME = "ei-rondas-v3";
+const CACHE_NAME = "ei-rondas-v4";
 
 const ASSETS = [
   "./",
